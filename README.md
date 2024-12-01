@@ -1,27 +1,50 @@
-![logo](https://github.com/AkmaDev/AkmaDev/blob/main/Immersive%20Techs%20For%20UX.gif)
-<h1 align="center">Hi 👋, I'm Amen Manassé AKPOVI</h1>
-<h3 align="center">Java Developer | Clean Code Enthusiast</h3>
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966"> 
+# 👋 Hi, I'm Amen Manassé AKPOVI
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akmadev&label=Profile%20views&color=0e75b6&style=flat" alt="akmadev" /> </p>
+### Full-Stack Developer | Passionate about Innovation & Social Impact
 
-- 🌱 I’m currently learning **Clean CODE, TDD, etc.**
+![Logo](https://github.com/AkmaDev/AkmaDev/blob/main/Immersive%20Techs%20For%20UX.gif)
 
-- 👨‍💻 All of my projects are available at [https://linktr.ee/akmadev](https://linktr.ee/akmadev)
+---
 
-- ⚡ Fun fact **I am funny 😅**
+### 🚀 About Me  
+I'm a full-stack developer with a strong passion for creating **innovative solutions** to real-world problems. Currently, I'm focused on **React.js, Appwrite**, and **Twilio** to build applications that can make a tangible impact, particularly in the areas of **local product promotion** and **healthcare innovation**.  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/acapeo1" target="blank"><img align="center" src="https://www.veeforu.com/wp-content/uploads/2023/07/Twitter-new-cross-mark-Icon-PNG-X.jpg" alt="acapeo1" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/manasse-akpovi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manasse-akpovi" height="30" width="40" /></a>
-</p>
+I believe in the power of **clean code**, **TDD**, and **modern development practices** to build scalable, maintainable systems. I'm constantly looking to learn, grow, and contribute to **transformative projects** that help communities thrive.  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+- 🌱 Currently learning **TypeScript, Tailwind CSS, and exploring AI-driven user experiences**.  
+- 🔗 Check out all my projects: [My Portfolio](https://linktr.ee/akmadev)  
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akmadev&show_icons=true&locale=en&layout=compact" alt="akmadev" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akmadev&show_icons=true&locale=en" alt="akmadev" /></p>
+### 🌍 Connect with me:  
+[Twitter](https://twitter.com/acapeo1) | [LinkedIn](https://linkedin.com/in/manasse-akpovi)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akmadev&" alt="akmadev" /></p>
+---
+
+### 🛠️ Languages and Tools  
+Here are some of the tools I work with:
+
+- **Frontend:**  
+  - React.js, Next.js, Tailwind CSS, Shadcn (UI Components)  
+- **Backend:**  
+  - Appwrite, Node.js, Express.js  
+- **Databases:**  
+  - MongoDB, MySQL  
+- **Others:**  
+  - Twilio (SMS Communication), Python, Java  
+
+---
+
+### 📊 My GitHub Stats  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=akmadev&show_icons=true&locale=en&layout=compact)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=akmadev&show_icons=true&locale=en)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=akmadev&)
+
+
+---
+
+### 📍 Fun Fact  
+I'm always trying to balance productivity and creativity, and yes, I do have a funny side 😅. I believe humor is essential for a productive and enjoyable work environment!
